@@ -1,0 +1,23 @@
+/* style.css */
+
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.login-container {
+    background: url('../img/background.png') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+}
+
+.card {
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+}
+
+h2 {
+    font-weight: bold;
+    color: #333;
+}

@@ -1,0 +1,37 @@
+body {
+    background-color: #f8f9fa;
+    background: url('../img/background.png') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    
+}
+
+.sidebar {
+    padding: 15px;
+}
+
+.sidebar-heading {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    color: #343a40;
+}
+
+.nav-link {
+    color: #343a40;
+}
+
+.nav-link.active {
+    font-weight: bold;
+    background-color: #e9ecef;
+}
+
+.dashboard-container {
+    height: 100vh;
+}
+
+.dashboard-content {
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
